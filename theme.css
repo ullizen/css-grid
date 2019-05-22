@@ -1,7 +1,7 @@
 body {
 	font-family: sans-serif;
 	background: #f7f7f7;
-	margin: 20px;
+	margin: 0;
 }
 
 .grid-container {
@@ -13,4 +13,21 @@ body {
 	min-height: 100px;
 	background: white;
 	box-shadow: 0 2px 20px 0 rgba(0,0,0,0.05);
+}
+
+header {
+	background: #333745;
+	color: white;
+}
+
+aside {
+	background: #e63462;
+}
+
+main {
+	background: #eef5db;
+}
+
+footer {
+	background: #c7efcf;
 }
